@@ -1,0 +1,12 @@
+gemm,linear-algebra/blas/gemm
+symm,linear-algebra/blas/symm
+syr2k,linear-algebra/blas/syr2k
+syrk,linear-algebra/blas/syrk
+trmm,linear-algebra/blas/trmm
+cholesky,linear-algebra/solvers/cholesky
+lu,linear-algebra/solvers/lu
+ludcmp,linear-algebra/solvers/ludcmp
+nussinov,medley/nussinov
+heat-3d,stencils/heat-3d
+jacobi-2d,stencils/jacobi-2d
+floyd-warshall,medley/floyd-warshall
